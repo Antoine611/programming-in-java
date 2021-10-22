@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="agh.ii.prinjava.lab02.exc02_01.impl.ArrayBasedImplTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-09-30T14:39:49" hostname="MacBook-Pro-de-Antoine.local" time="0.028">
+<testsuite name="agh.ii.prinjava.lab02.exc02_01.impl.ArrayBasedImplTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-10-21T23:23:26" hostname="MacBook-Pro-de-Antoine.local" time="0.026">
   <properties/>
   <testcase name="newStackIsEmpty()" classname="agh.ii.prinjava.lab02.exc02_01.impl.ArrayBasedImplTest" time="0.017"/>
-  <testcase name="numOfElems()" classname="agh.ii.prinjava.lab02.exc02_01.impl.ArrayBasedImplTest" time="0.0"/>
+  <testcase name="numOfElems()" classname="agh.ii.prinjava.lab02.exc02_01.impl.ArrayBasedImplTest" time="0.001"/>
   <testcase name="pop()" classname="agh.ii.prinjava.lab02.exc02_01.impl.ArrayBasedImplTest" time="0.004"/>
   <testcase name="peek()" classname="agh.ii.prinjava.lab02.exc02_01.impl.ArrayBasedImplTest" time="0.001"/>
-  <testcase name="push()" classname="agh.ii.prinjava.lab02.exc02_01.impl.ArrayBasedImplTest" time="0.003"/>
-  <system-out><![CDATA[-1846153519
-1922885638
-]]></system-out>
+  <testcase name="push()" classname="agh.ii.prinjava.lab02.exc02_01.impl.ArrayBasedImplTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
